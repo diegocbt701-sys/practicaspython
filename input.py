@@ -1,8 +1,8 @@
-# nombre = input('como te llamas?')
-# print('hola '+ nombre)
-# edad = input('cuantos añOS tienes? ')
-# print(type(edad))
-# print(f'{nombre} tiene {edad} años')
+nombre = input('como te llamas?')
+print('hola ' nombre)
+edad = input('cuantos añOS tienes? ')
+print(type(edad))
+print(f'{nombre} tiene {edad} años')
 
 #programa que pide dos numeros al usuario y los suma
 
